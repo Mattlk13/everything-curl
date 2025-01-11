@@ -20,7 +20,7 @@ Spell them out as "it will" and "must have", etc.
 
 And ... vs … (typographical ellipses)
 
-Let's try to use the correct UTF-8 characters!
+Try to use the correct UTF-8 characters.
 
 ## Avoid the short forms of dir and repo
 
@@ -38,3 +38,7 @@ Use an English phrase instead. This is not a man page.
 ## Use backticks around libcurl constants
 
 For example, `CURLE_OK` and `CURLOPT_URL`.
+
+## Use present tense
+
+Avoid saying what will happen. Say what happens.

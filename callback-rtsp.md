@@ -1,4 +1,0 @@
-### RTSP interleave callback
-
-TBD
-

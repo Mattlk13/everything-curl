@@ -1,3 +1,0 @@
-### SSL context callback
-
-TBD
